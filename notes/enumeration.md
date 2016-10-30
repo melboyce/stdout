@@ -30,6 +30,7 @@ Not as pescriptive, this is more a list of areas to poke around in.
    - sudo
    - sshd
    - services
+   - logging
    - periodic processes
    - netfilter
    - sysctl
@@ -46,6 +47,6 @@ Not as pescriptive, this is more a list of areas to poke around in.
    - permissions
 5. users
    - perms
-   - sudo
+   - who/last/etc
    - root activity
 6. misc
