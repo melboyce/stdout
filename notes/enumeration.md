@@ -24,7 +24,7 @@ Not as pescriptive, this is more a list of areas to poke around in.
    - traffic
    - performance
    - resolver
-   - 
+   - routes
 2. /etc
    - release
    - sudo
