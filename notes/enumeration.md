@@ -4,6 +4,7 @@ When troubleshooting a Linux system, first enumerate. These are my versions.
 ## Performace Investigation
 This is entirely based on [Brendan Gregg](http://www.brendangregg.com/)'s
 fine work in the field.
+
 1. `uptime`
 2. `dmesg | tail`
 3. `vmstat 1`
@@ -17,6 +18,7 @@ fine work in the field.
 
 ## Security Cross-check
 Not as pescriptive, this is more a list of areas to poke around in.
+
 1. network
    - listeners
    - traffic
