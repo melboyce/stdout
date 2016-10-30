@@ -23,8 +23,11 @@ Not as pescriptive, this is more a list of areas to poke around in.
    - listeners
    - traffic
    - performance
+   - resolver
+   - 
 2. /etc
    - release
+   - sudo
    - sshd
    - services
    - periodic processes
@@ -41,4 +44,8 @@ Not as pescriptive, this is more a list of areas to poke around in.
    - patch-level
    - setuid/setgid/etc binaries
    - permissions
-5. misc
+5. users
+   - perms
+   - sudo
+   - root activity
+6. misc
