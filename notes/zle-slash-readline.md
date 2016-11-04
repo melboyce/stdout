@@ -1,6 +1,9 @@
 # ZLE movement/editing/etc notes (Emacs mode)
 AKA readline
 
+Even after years of use, I still forget to use the bulk of this library. This
+is a lightweight cheatsheet.
+
 
 ## Notes
 A `word` is defined by the `WORDCHARS` parameter.
