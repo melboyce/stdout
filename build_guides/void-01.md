@@ -27,7 +27,7 @@
       - `xbps-reconfigure -f glibc-locales`
    5. `/etc/dracut.conf`
    6. `dracut --force --hostonly '' KERNEL_VERSION_RELNUM`  # see /lib/modules
-9. bootloader (don't forget /boot/*/*.cfg)
+9. bootloader (don't forget /boot/foo/bar.cfg)
    1. `grub-install --target=i386-pc /dev/sdX`
    2. `grub-install --target=x86_64-efi --efi-directory=/boot/efi --boot-directory=/boot --recheck --debug`
    3. `xbps-reconfigure -f linux4.0`  # change version to suit
