@@ -7,8 +7,9 @@ A `word` is defined by the `WORDCHARS` parameter.
 
 
 ## Movement
-forward-char   ^F  move forward one character
-backward-char  ^B  move backward one character
+|---:|:-:|:---|
+|forward-char|^F|move forward one character|
+|backward-char|^B|move backward one character|
 
 forward-word   ESC-F  move to the beginning of the next word
 backward-word  ESC-B  move to the beginning of the previous word
