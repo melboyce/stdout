@@ -7,7 +7,8 @@ A `word` is defined by the `WORDCHARS` parameter.
 
 
 ## Movement
-|---:|:-:|:---|
+| cmd | key(s) | desc. |
+|----:|:------:|:------|
 |forward-char|^F|move forward one character|
 |backward-char|^B|move backward one character|
 
