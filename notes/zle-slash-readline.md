@@ -36,7 +36,7 @@ A `word` is defined by the `WORDCHARS` parameter.
 |quote-line|ESC-'|quote the current line with single quotes|
 |overwrite-mode|^X^O|toggle between overwrite and insert modes|
 |transpose-chars|^T|exchange current character with the previous one|
-|transpose-words|ESC-T|exchange current word with previous word|
+|transpose-words|ESC-T|transpose word behind cursor with word in front|
 
 
 ## History
