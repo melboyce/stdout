@@ -1,16 +1,8 @@
 # ALMM TODO
 
 * unix primer
-  * modern unix flavors - a brief discussion of architecture
-    * linux
-    * bsd
-      * free
-      * net
-      * open
-    * darwin
-    * aix
-    * solaris
-    * hpux
+  * modern unix systems
+      * discuss differences
 * userland
   * executables
     * elf
