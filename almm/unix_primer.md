@@ -19,6 +19,7 @@ terminal instead of a keypunch, but to encourage close communication.
 
 * 1961 - CTSS (Compatible Time-Sharing System), MIT
 * 1969 - Multics (Multiplexed Information and Computing Service), MIT
+  * Introduction of protection rings (8 in hardware)
 * 1971 - Unix, Bell Labs
   * Ken Thompson
   * Dennis Ritchie
