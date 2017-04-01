@@ -122,4 +122,9 @@ The design must cover as many important situations as is practical. All reasonab
 
 AKA: Where Unix was going before getting side-tracked by capitalism.
 
-Pike et al: "[t]he foundations of the system are built on two ideas: a per-process name space and a simple message-oriented file system protocol."
+```
+[t]he foundations of the system are built on two ideas: a per-process name
+space and a simple message-oriented file system protocol.
+
+-- Pike, et al
+```
