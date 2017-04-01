@@ -1,15 +1,6 @@
 # ALMM TODO
 
 * unix primer
-  * unix timeline
-    * pre-unix
-    * unix
-    * post-unix
-  * key concepts still en vogue
-    * building on small, cooperative processes leads to strong composability and a decreased need for complex applications.
-  * philosophy
-  * well-behaved unix processes
-  * plan9  :_(
   * modern unix flavors - a brief discussion of architecture
     * linux
     * bsd
