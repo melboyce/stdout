@@ -22,6 +22,9 @@ compliant.
 
 ### Implementations
 
+Not an exhaustive list, but covers most notable general-purpose implementations.
+Other implementations may be for embedded systems or the like.
+
 * Glibc
 * musl
 * dietlibc
