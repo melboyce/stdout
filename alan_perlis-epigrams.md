@@ -121,13 +121,14 @@
 119. Programming is an unnatural act.
 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
 121. In seeking the unattainable, simplicity only gets in the way.
-122. If there are epigrams, there must be meta-epigrams.
-    1. Epigrams are interfaces across which appreciation and insight flow.
-    2. Epigrams parametrize auras.
-    3. Epigrams are macros, since they are executed at read time.
-    4. Epigrams crystallize incongruities.
-    5. Epigrams retrieve deep semantics from a data base that is all procedure.
-    6. Epigrams scorn detail and make a point: They are a superb high-level documentation.
-    7. Epigrams are more like vitamins than protein.
-    8. Epigrams have extremely low entropy.
-    9. The last epigram? Neither eat nor drink them, snuff epigrams.
+
+## If there are epigrams, there must be meta-epigrams.
+122. Epigrams are interfaces across which appreciation and insight flow.
+123. Epigrams parametrize auras.
+124. Epigrams are macros, since they are executed at read time.
+125. Epigrams crystallize incongruities.
+126. Epigrams retrieve deep semantics from a data base that is all procedure.
+127. Epigrams scorn detail and make a point: They are a superb high-level documentation.
+128. Epigrams are more like vitamins than protein.
+129. Epigrams have extremely low entropy.
+130. The last epigram? Neither eat nor drink them, snuff epigrams.
