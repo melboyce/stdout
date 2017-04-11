@@ -45,17 +45,22 @@
     * ubuntu
     * debian
 * kernel
+  * intel hardware <-> kernel
+    * rings
+    * registers
+    * device interface (hardware)
   * internals
-    * intterupts
+    * interrupts
     * syscalls
   * instrumentation (see also: troubleshooting)
   * booting
   * memory
+    * intel hardware <-> kernel memory management
     * slab
     * vm
     * stack/heap, pointers, brk, et al
     * security
-      * old days
+      * old days (32bit, no aslr, etc)
       * current landscape
   * driver interface
     * block and char
