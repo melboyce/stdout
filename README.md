@@ -1,2 +1,2 @@
 # stdout
-My personal stdout device
+My personal stdout device.
