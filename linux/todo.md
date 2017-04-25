@@ -74,6 +74,7 @@
     * /dev/log
   * resource isolation
     * chroot
+    * capabilities
     * cgroups
     * namespaces
     * pivot_root and clone

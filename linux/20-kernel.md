@@ -54,3 +54,15 @@ operating mode:
 * 64bit protected mode (64GB+)
 
 Check the Intel datasheets and the Intel Software Developer's Manuals.
+
+
+## Resource Isolation
+
+### Capabilities
+
+Capabilities are defined here: `/usr/include/linux/capability.h`.
+
+Linux processes execute as either *privileged* or *unprivileged*:
+
+* `privileged processes` execute with `euid 0` and bypass all kernel permissions checks.
+* `unprivileged processes` execute with a non-zero `euid` and are checked frequently.
